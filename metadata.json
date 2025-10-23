@@ -1,0 +1,5 @@
+{
+  "name": "Modern E-Commerce Site",
+  "description": "A modern e-commerce site built with React, TypeScript, and TailwindCSS, featuring a product list, shopping cart, and localStorage persistence.",
+  "requestFramePermissions": []
+}
